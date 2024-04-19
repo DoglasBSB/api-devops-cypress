@@ -1,7 +1,7 @@
 const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
-  projectId: 'w86twt',
+  projectId: 'dzq1cc',
   e2e: {
     baseUrl: 'https://api.restful-api.dev',
     setupNodeEvents(on, config) {
